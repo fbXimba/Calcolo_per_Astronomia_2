@@ -13,4 +13,4 @@ In seguito, data una T_max iniziale e una stima del rispettivo tempo di cooling,
 
 ![Curva di cooling per nH = 1 cm−3 e X = 1 (cooling totale e i suoi contributi)](/img/grafico2_2.pdf)
 
-![Evoluzione della temperatura in funzione del tempo in unità di tcool per X = 1 e nH = 1 cm−3 , dalle Tmax di 106 K e 107 K](grafico45.pdf)
+![Evoluzione della temperatura in funzione del tempo in unità di tcool per X = 1 e nH = 1 cm−3 , dalle Tmax di 106 K e 107 K](/img/grafico45.pdf)
